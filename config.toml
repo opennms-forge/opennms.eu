@@ -1,0 +1,31 @@
+title = "OpenNMS Foundation Europe e.V."
+baseURL = "https://www.opennms.eu"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+themesDir = "themes"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "images/favicon.ico"
+  description = "OpenNMS Foundation Europe e.V."
+  facebook = ""
+  twitter = "https://twitter.com/opennms"
+  instagram = ""
+  youtube = "https://www.youtube.com/user/opennms"
+  github = "https://github.com/OpenNMS"
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-white"
+  featured_image = "/images/ulf-berlin.png"
+  recent_posts_number = 1
