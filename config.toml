@@ -9,7 +9,7 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
-googleAnalytics = "UA-80485373-2"
+#googleAnalytics = "UA-80485373-2"
 
 [sitemap]
   changefreq = "monthly"
