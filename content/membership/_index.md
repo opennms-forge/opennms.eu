@@ -1,5 +1,6 @@
 ---
 title: "Membership"
+weight: 3
 ---
 
 ### Mitgliedsbeiträge / Membership fees

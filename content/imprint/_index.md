@@ -1,5 +1,6 @@
 ---
-title: "Imprint"
+title: "Impressum"
+weight: 5
 ---
 
 #### Anbieter dieser Webseite ist die

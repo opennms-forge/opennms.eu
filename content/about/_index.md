@@ -1,5 +1,6 @@
 ---
 title: "Statutes"
+weight: 4
 ---
 
 Our statutes are in german, as the association is a german association. We will provide an english translation at one point.
