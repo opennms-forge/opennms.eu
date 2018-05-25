@@ -9,12 +9,12 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 ## Verantwortlicher
 
-OpenNMS Foundation Europe e.V.
-Bahnhofstrasse 16
-36037 Fulda, Deutschland
-E-Mailadresse: info@nethinks.com
-Vorstand: Dustin Frisch, Uwe Bergmann, Ronny Trommer
-Link zum Impressum: https://www.opennms.eu/imprint
+    OpenNMS Foundation Europe e.V.
+    Bahnhofstrasse 16
+    36037 Fulda, Deutschland
+    E-Mailadresse: info@nethinks.com
+    Vorstand: Dustin Frisch, Uwe Bergmann, Ronny Trommer
+    Link zum Impressum: https://www.opennms.eu/imprint
 
 ## Arten der verarbeiteten Daten
 
