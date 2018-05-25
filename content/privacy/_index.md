@@ -182,7 +182,7 @@ Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse d
 
 ## Typeform
 
-Für die Bewerbung zu Vorträgen auf unsere Konfernz werden Formulare des Anbieters TYPEFORM S.L. eine spanisches Unternehmen registriert unter der Adresse Carrer Bac de Roda, 163, 08018 Barcelona, and C.I.F. (tax identification code) B65831836. Es ist ein registriert im Handelregister Barcelone, Seite B-421911, folio 145, volume 43262.
+Für die Bewerbung zu Vorträgen auf unsere Konfernz werden Formulare des Anbieters TYPEFORM S.L. ein spanisches Unternehmen registriert unter der Adresse Carrer Bac de Roda, 163, 08018 Barcelona, and C.I.F. (tax identification code) B65831836, verwendet. Es ist registriert im Handelregister Barcelona, Seite B-421911, folio 145, volume 43262.
 
 Die Nutzungsvereinbarung und Datenschutzrichtlinen finden Sie unter [TypeForm Privacy Policy](https://admin.typeform.com/to/dwk6gt).
 
