@@ -44,6 +44,6 @@ Support [OpenNMS Developer conference](https://wiki.opennms.org/wiki/Dev-Jam_201
 * Public invitation to contribute to Open Source at the OpenNMS developer conference from 24th July until 30th July 2016
 * Publication of the results under [OSI Open Source](https://opensource.org/osd) license from [Marcel Fuhrmann](https://wiki.opennms.org/wiki/Dev-Jam_2016/LANCOM_Support)
 
-# Tätigkeiten in 2017
+# Activity in 2017
 
 * Restructuring the foundation and start planning next OpenNMS User Conference in 2018.
