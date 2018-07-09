@@ -46,4 +46,4 @@ Support [OpenNMS Developer conference](https://wiki.opennms.org/wiki/Dev-Jam_201
 
 # Activity in 2017
 
-* Restructuring the foundation and start planning next OpenNMS User Conference in 2018.
+* Restructuring the foundation and start planning next [OpenNMS User Conference](https://ouce.opennms.eu/) in 2018.
